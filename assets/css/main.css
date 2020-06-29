@@ -1433,7 +1433,7 @@
 		color: #000000;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 13pt;
-		font-weight: 200;
+		font-weight: 400;
 		line-height: 1.65;
 	}
 
@@ -1456,13 +1456,13 @@
 	}
 
 		a:hover {
-			color: #bbbbbb;
+			color: #555555;
 			border-bottom-color: transparent;
 		}
 
 	strong, b {
 		color: #000000;
-		font-weight: 200;
+		font-weight: 600;
 	}
 
 	em, i {
@@ -1471,11 +1471,12 @@
 
 	p {
 		margin: 0 0 2em 0;
+    
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #000000;
-		font-weight: 200;
+		font-weight: 300;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
 	}
