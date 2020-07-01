@@ -4,6 +4,11 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+$(document).ready(function(){ //on page all
+    $('body').css('pointer-events','all'); //activate all pointer-events on body
+});
+
+
     const observer = lozad(); // lazy loads elements with default selector as '.lozad'
 observer.observe();
 
@@ -26,9 +31,9 @@ $(function() {
 	// Disable animations/transitions until everything's loaded.
 		//$body.addClass('is-loading');
 
-		//$window.on('load', function() {
-			//$body.removeClass('is-loading');
-		//});
+		$window.on('load', function() {
+			$('#main').click(false);
+		});
     
 
 
