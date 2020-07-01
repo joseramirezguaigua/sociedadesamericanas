@@ -4,6 +4,9 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+    const observer = lozad(); // lazy loads elements with default selector as '.lozad'
+observer.observe();
+
 $(function() {
 
 	// Vars.
@@ -21,11 +24,13 @@ $(function() {
 		});
 
 	// Disable animations/transitions until everything's loaded.
-		$body.addClass('is-loading');
+		//$body.addClass('is-loading');
 
-		$window.on('load', function() {
-			$body.removeClass('is-loading');
-		});
+		//$window.on('load', function() {
+			//$body.removeClass('is-loading');
+		//});
+    
+
 
 	// Poptrox.
 		$window.on('load', function() {
@@ -38,7 +43,7 @@ $(function() {
 				usePopupEasyClose: true,
 				overlayColor: '#000000',
 				overlayOpacity: 0.75,
-				popupLoaderText: '',
+				popupLoaderText: 'Cargando...',
 				fadeSpeed: 500,
 				usePopupDefaultStyling: false,
 				windowMargin: (skel.breakpoint('small').active ? 5 : 50)
