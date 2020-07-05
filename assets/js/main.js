@@ -4,13 +4,12 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
-$(document).ready(function(){ //on page all
-    $('body').css('pointer-events','all'); //activate all pointer-events on body
-});
+//$(document).ready(function(){ //on page all
+    //$('body').css('pointer-events','all'); //activate all pointer-events on body
+//}); esto era un intento de evitar el malfuncionamiento de pop trox.
 
 
-    const observer = lozad(); // lazy loads elements with default selector as '.lozad'
-observer.observe();
+
 
 $(function() {
 
@@ -28,17 +27,17 @@ $(function() {
 			xsmall:	'(max-width: 480px)'
 		});
 
-	// Disable animations/transitions until everything's loaded.
+	//Disable animations/transitions until everything's loaded.
 		//$body.addClass('is-loading');
 
-		$window.on('load', function() {
-			$('#main').click(false);
-		});
+	//	$window.on('load', function() {
+			//$('#main').click(false);
+	//	});
     
 
 
 	// Poptrox.
-		$window.on('load', function() {
+		$(document).ready(function() {
 
 			$('.thumbnails').poptrox({
 				onPopupClose: function() { $body.removeClass('is-covered'); },
