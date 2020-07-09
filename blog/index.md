@@ -2,7 +2,8 @@
 
 
 En esta sección se irán publicando progresivamente todos las reflexiones y consideraciones teóricas y prácticas en torno al presente proyecto.  
-<p align="left">
+<p align="justify">
+  En esta sección se irán publicando progresivamente todos las reflexiones y consideraciones teóricas y prácticas en torno al presente proyecto.  
   <b>Some Links:</b><br>
   <a href="#">Link 1</a> |
   <a href="#">Link 2</a> |
