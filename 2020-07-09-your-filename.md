@@ -1,0 +1,3 @@
+## Probando para el dossier 
+
+Este es un _post de prueba_ para el dossier que acompañará el proyecto trasmedia **Sociedades Americanas 2.0**. Veamos que pasa...
