@@ -10,7 +10,7 @@ En esta sección se irán publicando progresivamente todos las reflexiones y _co
 
 1. Propuesta Inicial
 1. ¿Es Net art, Transmedia, o Crossmedia?
-1. Acerca de esta ~~edición~~ ¿re-intepretación?
+1. Acerca de esta ~~edición~~ [¿re-intepretación?](https://www.sociedadesamericanas.gq "Web central")
 
 
 * Propuesta Inicial
@@ -20,8 +20,3 @@ En esta sección se irán publicando progresivamente todos las reflexiones y _co
 + Propuesta Inicial
 + ¿Es Net art, Transmedia, o Crossmedia?
 + Acerca de esta ~~edición~~ ¿re-intepretación?
-
-
-
-
-
