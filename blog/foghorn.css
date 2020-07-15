@@ -7,7 +7,7 @@ html, body {
         background:#fefefe;
 	}
 body {
-	font: 1.3em "Vollkorn", Palatino, Times;
+	font: 1.3em "Vollkorn";
 	color: #333;
 	line-height: 1.4;
 	text-align: justify;
@@ -78,7 +78,7 @@ code {
 	background: white;
 	}
 a {
-	color: #2484c1;
+	color: #FF0000;
 	text-decoration: none;
 	}
 a:hover {
@@ -140,4 +140,3 @@ article {
 	padding: 0 10px;
 	}
 } /* @iPhone */
-
