@@ -1,5 +1,5 @@
 
-<center><img src="/blog/SA_logo_completo_.png" width="600"></center>
+<center><img src="/blog/SA_logo_completo_.png" ></center>
 
 ## Acerca de este proyecto
 
@@ -17,7 +17,7 @@ En esta sección se irán publicando progresivamente todos las reflexiones y _co
 
 Aquí va una imagen de prueba:
 
-<center><img src="/blog/screen.png" width="600"></center>
+<center><img src="/blog/screen.png" ></center>
 
 
 
