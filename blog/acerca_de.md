@@ -7,3 +7,21 @@ En esta sección se irán publicando progresivamente todos las reflexiones y _co
 - Propuesta Inicial
 - ¿Es Net art, Transmedia, o Crossmedia?
 - Acerca de esta ~~edición~~ ¿re-intepretación?
+
+1. Propuesta Inicial
+1. ¿Es Net art, Transmedia, o Crossmedia?
+1. Acerca de esta ~~edición~~ ¿re-intepretación?
+
+
+* Propuesta Inicial
+* ¿Es Net art, Transmedia, o Crossmedia?
+* Acerca de esta ~~edición~~ ¿re-intepretación?
+
++ Propuesta Inicial
++ ¿Es Net art, Transmedia, o Crossmedia?
++ Acerca de esta ~~edición~~ ¿re-intepretación?
+
+
+
+
+
