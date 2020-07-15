@@ -1,5 +1,5 @@
 
-<img src="/blog/SA_logo_completo_.png" width="400">
+<img src="/blog/SA_logo_completo_.png" width="400" align="center">
 
 ## Acerca de este proyecto
 
@@ -16,7 +16,7 @@ En esta sección se irán publicando progresivamente todos las reflexiones y _co
 1. Acerca de esta ~~edición~~ [¿re-intepretación?](https://www.sociedadesamericanas.gq "Web central")
 
 Aquí va una imagen de prueba:
-<img src="/blog/screen.png" width="auto">
+<img src="/blog/screen.png" width="500">
 
 
 
