@@ -1,4 +1,5 @@
-![Logo Sociedades Americanas 2.0]({{site.baseurl}}/https://www.sociedadesamericanas.gq/images/SA_logo_.png)
+![SA_logo_completo_.png]({{site.baseurl}}/blog/SA_logo_completo_.png)
+
 
 ## Acerca de este proyecto
 
