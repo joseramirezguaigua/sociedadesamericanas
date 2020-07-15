@@ -15,6 +15,9 @@ En esta sección se irán publicando progresivamente todos las reflexiones y _co
 1. ¿Es Net art, Transmedia, o Crossmedia?
 1. Acerca de esta ~~edición~~ [¿re-intepretación?](https://www.sociedadesamericanas.gq "Web central")
 
+Aquí va una imagen de prueba:
+![Screenshot from 2020-07-04 13-38-38.png]({{site.baseurl}}/blog/Screenshot from 2020-07-04 13-38-38.png)
+
 
 * Propuesta Inicial
 * ¿Es Net art, Transmedia, o Crossmedia?
