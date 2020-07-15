@@ -1,5 +1,5 @@
 ![SA_logo_completo_.png]({{site.baseurl}}/blog/SA_logo_completo_.png)
-<img src="/blog/SA_logo_completo_.png" width="200">
+<img src="/blog/SA_logo_completo_.png" max-width="100%">
 
 ## Acerca de este proyecto
 
@@ -16,7 +16,8 @@ En esta sección se irán publicando progresivamente todos las reflexiones y _co
 1. Acerca de esta ~~edición~~ [¿re-intepretación?](https://www.sociedadesamericanas.gq "Web central")
 
 Aquí va una imagen de prueba:
-![Screenshot from 2020-07-04 13-38-38.png]({{site.baseurl}}/blog/Screenshot from 2020-07-04 13-38-38.png)
+![s]({{site.baseurl}}/blog/screen.png)
+
 
 
 * Propuesta Inicial
