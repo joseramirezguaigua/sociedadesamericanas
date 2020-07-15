@@ -17,7 +17,7 @@ En esta sección se irán publicando progresivamente todos las reflexiones y _co
 
 Aquí va una imagen de prueba:
 
-<center><img src="/blog/screen.png" width="300"></center>
+<center><img src="/blog/screen.png" width="500"></center>
 
 
 
