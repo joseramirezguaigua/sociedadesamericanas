@@ -131,7 +131,7 @@ body {
 -------------------------------------------------------- */
 @media only screen and (max-device-width: 480px) {
 body {
-	text-align: left;
+	text-align: justify;
 	}
 article, footer {
 	width: auto;
