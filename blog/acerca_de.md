@@ -16,6 +16,7 @@ En esta sección se irán publicando progresivamente todos las reflexiones y _co
 1. Acerca de esta ~~edición~~ [¿re-intepretación?](https://www.sociedadesamericanas.gq "Web central")
 
 Aquí va una imagen de prueba:
+<img src="/blog/screen.png" width="auto">
 ![s]({{site.baseurl}}/blog/screen.png)
 
 
