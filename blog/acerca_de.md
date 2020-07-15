@@ -1,5 +1,5 @@
 ![SA_logo_completo_.png]({{site.baseurl}}/blog/SA_logo_completo_.png)
-<img src="/blog/SA_logo_completo_.png" max-width="100%">
+<img src="/blog/SA_logo_completo_.png" width="400">
 
 ## Acerca de este proyecto
 
