@@ -1,3 +1,5 @@
+![Logo Sociedades Americanas 2.0]({{site.baseurl}}/https://www.sociedadesamericanas.gq/images/SA_logo_.png)
+
 ## Acerca de este proyecto
 
 En esta sección se irán publicando progresivamente todos las reflexiones y _consideraciones teóricas y prácticas_ en torno al presente proyecto.  
