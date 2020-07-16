@@ -12,5 +12,5 @@ por José Ramírez Guaigua
 - Sociedades Americanas 2.0 ¿Es un proyecto de Net art, Transmedia, o Crossmedia?
 - Acerca de esta ~~edición~~ ¿re-intepretación?
 - Acerca del maestro y filósofo Simón Rodríguez
-
+- Simón Rodríguez y el arte contemporáneo
 
