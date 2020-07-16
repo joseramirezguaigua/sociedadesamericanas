@@ -20,7 +20,7 @@ por José Ramírez Guaigua
 
 #### _(presentada y aceptada para participar en la I Bienal de Artes Gŕaficas Homenaje al maestro Alirio Palacios que se llevó a cabo en el año 2016 en el Museo del Diseño y de la Estampa Carlos Cruz Diez en Caracas, Venezuela)_
 
-Síntesis Conceptual
+**Síntesis Conceptual**
 
 **Sociedades Americanas 2.0** constituye una tentativa de llevar a las plataformas digitales web 2.0, el repertorio de sentencias, reflexiones y pensamientos del maestro y filósofo venezolano **Simón Rodríguez**, quién además de ser el maestro y principal influencia de **Simón Bolívar** también desarrolló una vasta obra pedagógica y libertaria, publicada en diversos medios impresos durante el siglo XIX y sintetizada por sus compiladores bajo el título de _“Sociedades Americanas”_.
 
