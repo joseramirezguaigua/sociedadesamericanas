@@ -18,7 +18,7 @@ por José Ramírez Guaigua
 
 ## Propuesta inicial
 
-#### _(presentada y aceptada para participar en la I Bienal de Artes Gŕaficas Homenaje al maestro Alirio Palacios que se llevó a cabo en el año 2016 en el Museo del Diseño y de la Estampa Carlos Cruz Diez en Caracas, Venezuela)_
+#### _(presentada y aceptada para participar en la III Bienal de Artes Gráficas Homenaje al maestro Alirio Palacios que se llevó a cabo en el año 2016 en el Museo del Diseño y de la Estampa Carlos Cruz Diez en Caracas, Venezuela)_
 
 **Síntesis Conceptual**
 
