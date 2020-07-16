@@ -33,6 +33,8 @@ Es pertinente recordar que dicha propuesta novedosa para su época (y aún hoy e
 
 Noviembre de 2015.
 
+**NOTAS:** La propuesta inicial para el contexto del museo cruz DIez consistía en la proyección off-line de las animaciones. Sin embargo el comité curatorial encontró interesante presentarlo como proyecto de Net.Art propiamente, por lo que se me facilitó una computadora con pantalla táctil, presentando de esta manera la página web online en la sala de exposiciones, permitiendo que los espectadores interactuaran con la web y las animaciones. 
+
 [Volver](#lista)
 
 ## Net art, Transmedia o Crossmedia
