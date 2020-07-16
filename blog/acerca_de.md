@@ -32,5 +32,6 @@ Es pertinente recordar que dicha propuesta novedosa para su época (y aún hoy e
 **Sociedades Américanas 2.0** es un proyecto de _Net.Art_ que se extiende a otras plataformas y espacios (como el museo en este caso). Es una obra en proceso, por lo que en la pagina web del proyecto semanalmente se irán agregando más frases animadas hasta completar la mayor parte del ideario de **Simón Rodríguez**. En esta página habrá mayor libertad e interactividad para recorrer los textos y frases, debido a las posibilidades auto generativas del Web en sí.
 
 <right>Noviembre de 2015.</right>
+[Volver](#indice)
 
 ## Net art, Transmedia o Crossmedia
