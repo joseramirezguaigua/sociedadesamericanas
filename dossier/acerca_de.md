@@ -11,7 +11,7 @@ por José Ramírez Guaigua
 ## Lista
   
 - [Propuesta Inicial](#propuesta-inicial)
-- [Consideraciones Técnicas](#consideraciones-tecnicas)
+- [Consideraciones Técnicas](#consideraciones-técnicas)
 - [Sociedades Americanas 2.0 ¿Es un proyecto de Net art, Transmedia, o Crossmedia?](#net-art-transmedia-o-crossmedia)
 - Acerca de esta ~~edición~~ ¿re-intepretación?
 - Acerca del maestro y filósofo Simón Rodríguez
