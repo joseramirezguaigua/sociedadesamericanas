@@ -62,5 +62,5 @@ En principio Sociedades Americanas 2.0 fue concebido como un proyecto de Net.Art
 [Volver](#sumario)
 
 ## VI
-## Acerca del maestro y filósofo Simón Rodríguez
+## Simón Rodríguez y el arte contemporáneo
 [Volver](#sumario)
