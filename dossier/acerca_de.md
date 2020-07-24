@@ -4,6 +4,10 @@
 ## Acerca de este proyecto
 por José Ramírez Guaigua
 
+## Consideraciones Técnicas
+
+  Una primera versión de la web como tal fue presentada en el 2016 en la III Bienal de Artes Gráficas Homenaje al Maestro Alirio Palacios que se llevó a cabo en el Museo del Diseño y de la Estampa Carlos Cruz Diez. Esta primera versión, que podemos considerar como "beta" o "2.0.0", fue diseñada, programada e implementada enteramente en Flash, a partir de animaciones gráficas realizadas en After Effects. Esta primera versión sufrió las consecuencias de la obsolescencia programada, pues Flash y su aplicación ShockWavePlayer (SWF) dejó de ser soportado por la mayoría de navegadores a nivel mundial, volviendo inútiles todas las webs diseñadas con dicho software y el lenguaje de programación ActionScript. Esto me llevó a reconsiderar el diseño web y los lenguajes de programación mas apropiados para su realización, considerando la posibilidad de acceso universal y la velocidad de carga en diferentes dispositivos (PC de escritorio, tablets, smartphones, etc). Esta nueva versión que he decidido denominar "2.0.1" ha sido desarrollada enteramente en Html5, Javascript, Jquery y CSS3, apoyándome en la API del reproductor de Youtube para mostrar las animaciones completas. 
+
   En esta sección se irán publicando progresivamente todas las reflexiones y _consideraciones teóricas y prácticas_ en torno al presente proyecto.  
   
   Entendiendo que así como las apps, webs y otros desarrollos que implican lenguajes de programación en pro de algún tipo de interacción y cuya vida se da en la red internet están conformados por un **"Front end"** y un **"Back end"**, podríamos decir que esta sección revelaría el _**"Back end"**_ conceptual del presente proyecto. A continuación encontrarán material de investigación propio, consideraciones acerca de la naturaleza del presente proyecto y otros contenidos relacionados. Siéntanse libres de leer, jurungar, comentar y criticar lo aquí expuesto. Al final de la página he dispuesto un espacio para recibir comentarios, debatir e intercambiar ideas. 
@@ -33,7 +37,7 @@ Es pertinente recordar que dicha propuesta novedosa para su época (y aún hoy e
 
 Noviembre de 2015.
 
-**NOTAS:** La propuesta inicial para el contexto del museo cruz DIez consistía en la proyección off-line de las animaciones. Sin embargo el comité curatorial encontró interesante presentarlo como proyecto de Net.Art propiamente, por lo que se me facilitó una computadora con pantalla táctil, presentando de esta manera la página web online en la sala de exposiciones, permitiendo que los espectadores interactuaran con la web y las animaciones. 
+**NOTAS:** La propuesta inicial para el contexto del museo cruz Diez consistía en la proyección off-line de las animaciones. Sin embargo el comité curatorial encontró interesante presentarlo como proyecto de Net.Art propiamente, por lo que se me facilitó una computadora con pantalla táctil, presentando de esta manera la página web online en la sala de exposiciones, permitiendo que los espectadores interactuaran con la web y las animaciones. En ese momento se mostró la primera versión de esta web, la cual había sido diseñada y programda en Flash. 
 
 [Volver](#lista)
 
