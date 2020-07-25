@@ -139,7 +139,7 @@ body {
 @media only screen and (max-device-width: 480px) {
 body {
 	text-align: left;
-  font-size: 85%;
+  font-size: 95%;
 	}
 article, footer {
 	width: auto;
