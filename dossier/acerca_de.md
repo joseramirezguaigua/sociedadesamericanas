@@ -63,9 +63,11 @@ Noviembre de 2015.
 ## V
 ## Acerca del maestro y filósofo Simón Rodríguez
 
-<right>"Hace 24 años que estoy hablando, y escribiendo
-pública y privadamente, sobre el sistema Repúblicano,
-y, por todo fruto de mis buenos oficios, he conseguido que me traten de LOCO."</right>
+#### "Hace 24 años que estoy hablando, y escribiendo
+#### pública y privadamente, sobre el sistema Repúblicano,
+#### y, por todo fruto de mis buenos oficios, he conseguido que me traten de LOCO."
+#### Simón Rodríguez. _Luces y virtudes sociales_
+
 [Volver](#sumario)
 
 ## VI
