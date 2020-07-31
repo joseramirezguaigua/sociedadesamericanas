@@ -1,5 +1,5 @@
 
-<center><img src="/blog/SA_logo_completo_.png" ></center>
+<center><img src="/dossier/SA_logo_completo_.png" ></center>
 
 ## Acerca de este proyecto
 por José Ramírez Guaigua
@@ -43,7 +43,7 @@ Noviembre de 2015.
 
    Una primera versión de la web como tal fue presentada en el 2016 en la III Bienal de Artes Gráficas Homenaje al Maestro Alirio Palacios que se llevó a cabo en el Museo del Diseño y de la Estampa Carlos Cruz Diez. Esta primera versión, que hoy en día ya podríamos considerar como "beta" o "2.0.0", fue diseñada, programada e implementada enteramente en **Flash**, a partir de animaciones gráficas realizadas en **After Effects** _(El primero: un software de animación 2d con la capacidad de añadir interacción y el segundo: Software de animación gráfica 2d, 3d y de Efectos Especiales de postproducción audiovisual)_. 
    
-   *Imagen_interfaz vieja
+ <center><img src="/dossier/SA20_beta.png" ></center>
    
    Esta primera versión sufrió las consecuencias de la obsolescencia programada, pues **Flash** y su aplicación **ShockWave Flah Player (SWF)** <a href="https://www.xataka.com/aplicaciones/adobe-lo-confirma-flash-morira-en-2020-y-asi-lo-enterraran-chrome-firefox-edge-y-safari" target="_blank">dejaron de ser soportados por la mayoría de navegadores de Internet a nivel mundial,</a> volviendo inútiles todas las webs diseñadas con dicho software y el poderoso lenguaje de programación **ActionScript**. Esto me llevó a reconsiderar el diseño web y los lenguajes de programación mas apropiados para su realización, considerando la posibilidad de acceso universal y la velocidad óptima de carga en diferentes dispositivos _(PC de escritorio, tablets, smartphones, etc)_. 
    
