@@ -45,7 +45,7 @@ Noviembre de 2015.
      
  <center><img src="/dossier/SA20_beta.png" ></center>
 
-##### _Interfaz de la primera versión web de Sociedades Americanas 2.0_
+##### <center> _Interfaz de la primera versión web de Sociedades Americanas 2.0_ </center>
    
    Esta primera versión sufrió las consecuencias de la obsolescencia programada, pues **Flash** y su aplicación **ShockWave Flah Player (SWF)** <a href="https://www.xataka.com/aplicaciones/adobe-lo-confirma-flash-morira-en-2020-y-asi-lo-enterraran-chrome-firefox-edge-y-safari" target="_blank">dejaron de ser soportados por la mayoría de navegadores de Internet a nivel mundial,</a> volviendo inútiles todas las webs diseñadas con dicho software y el poderoso lenguaje de programación **ActionScript**. Esto me llevó a reconsiderar el diseño web y los lenguajes de programación mas apropiados para su realización, considerando la posibilidad de acceso universal y la velocidad óptima de carga en diferentes dispositivos _(PC de escritorio, tablets, smartphones, etc)_. 
    
