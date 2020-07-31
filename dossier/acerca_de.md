@@ -43,6 +43,8 @@ Noviembre de 2015.
 
    Una primera versión de la web como tal fue presentada en el 2016 en la III Bienal de Artes Gráficas Homenaje al Maestro Alirio Palacios que se llevó a cabo en el Museo del Diseño y de la Estampa Carlos Cruz Diez. Esta primera versión, que hoy en día ya podríamos considerar como "beta" o "2.0.0", fue diseñada, programada e implementada enteramente en **Flash**, a partir de animaciones gráficas realizadas en **After Effects** _(El primero: un software de animación 2d con la capacidad de añadir interacción y el segundo: Software de animación gráfica 2d, 3d y de Efectos Especiales de postproducción audiovisual)_. 
    
+   *Imagen_interfaz vieja
+   
    Esta primera versión sufrió las consecuencias de la obsolescencia programada, pues **Flash** y su aplicación **ShockWave Flah Player (SWF)** <a href="https://www.xataka.com/aplicaciones/adobe-lo-confirma-flash-morira-en-2020-y-asi-lo-enterraran-chrome-firefox-edge-y-safari" target="_blank">dejaron de ser soportados por la mayoría de navegadores de Internet a nivel mundial,</a> volviendo inútiles todas las webs diseñadas con dicho software y el poderoso lenguaje de programación **ActionScript**. Esto me llevó a reconsiderar el diseño web y los lenguajes de programación mas apropiados para su realización, considerando la posibilidad de acceso universal y la velocidad óptima de carga en diferentes dispositivos _(PC de escritorio, tablets, smartphones, etc)_. 
    
    Esta nueva versión que he decidido denominar **"2.0.1"** ha sido desarrollada enteramente en _Html5, Javascript, Jquery y CSS3_, apoyándome en la _API_ del reproductor de **Youtube** para mostrar las animaciones completas, además de ser _responsive_, lo que quiere decir que se adapta orgánicamente al tamaño de pantalla del dispositivo desde donde se visite. 
@@ -58,6 +60,9 @@ Noviembre de 2015.
 
 ## IV
 ## Acerca de esta ~~edición~~ ¿re-intepretación?
+
+*imagen_i_y
+
 [Volver](#sumario)
 
 ## V
@@ -76,12 +81,14 @@ No es mi intención abarcar en este apartado todos los aspectos de la complejida
 Dejo aquí algunos materiales complementarios sobre su vida y obra:
 links.
 
+*imagen_ENSEÑEN
+
 
 [Volver](#sumario)
 
 ## VI
 ## Simón Rodríguez y el arte contemporáneo
 
-De la mano de Luis Camnitzer (artista conceptual urugayo) y Claudio Perna (nuestro conceptualista y geógrafo venezolano) me llegó otra visión mas amplia e interesante de Simón Rodríguez. Hasta ese momento no era mas que un dato borroso en mis cuadernos de historia de venezuela de la primaria y secundaria. Debo admitir que gracias a una asignación del prof. Macjob Parabavis para Análisis Plástico en la E.A.V. Cristóbal Rojas, por allá en el año 2001, contando yo con unos 16 años, me topé con los aportes de Camnitzer para un estudio del conceptualismo latinoamericano, a partir de una entrevista que le hizo María Elena Ramos para el libro que complementaría las "Intervenciones en el Espacio" en el MBA (Museo de Bellas Artes de Caracas), rara experiencia expositiva que trajo entre otros, al propio Joseph Kosuth, padre del Arte Conceptual, Dan Graham, y otros. En dicha entrevista, Camnitzer habla de los aportes del pensamiento de Rodríguez y de su hipotesis según la cual, es él uno de los iniciadores del conceptualismo latinoamericano. Un par de años después en la muestra retrospectiva de Perna en la GAN, pude entender la fuerte influencia que tuvo Rodríguez en este artista, el sistematizador del concepto "Arte Social" en Venezuela. Obviamente, tenía que ser un geografo el que aterrizara la práctica artística conceptual al contexto propiamente venezolano, territorializándolo y socializandolo como experencia creativa colectiva (De ahí su "Fotografía anónima de Venezuela" por ejemplo), y tenía que ser su mayor influencia: un pedagogo libertario y utopista como lo fue Simón Rodríguez. 
+De la mano de Luis Camnitzer (artista conceptual urugayo) y Claudio Perna (nuestro conceptualista y geógrafo venezolano) me llegó otra visión mas amplia e interesante de Simón Rodríguez. Hasta ese momento no era mas que un dato borroso en mis cuadernos de historia de venezuela de la primaria y secundaria. Debo admitir que gracias a una asignación del prof. Macjob Parabavis para Análisis Plástico en la E.A.V. Cristóbal Rojas, por allá en el año 2001, contando yo con unos 16 años, me topé con los aportes de Camnitzer para un estudio del conceptualismo latinoamericano, a partir de una entrevista que le hizo María Elena Ramos para el libro que complementaría las "Intervenciones en el Espacio" en el MBA (Museo de Bellas Artes de Caracas), rara experiencia expositiva basada en Intervenciones de Sitio Específico dentro del museo (muchas de las cuales aún se conservan y se pueden ver en el edificio moderno del museo), que trajo entre otros, al propio Joseph Kosuth, padre del Arte Conceptual, Dan Graham, y otros. En dicha entrevista, Camnitzer habla de los aportes del pensamiento de Rodríguez y de su hipotesis según la cual, es él uno de los iniciadores del conceptualismo latinoamericano. Un par de años después en la muestra retrospectiva de Perna en la GAN (Arte Social - Claudio Perna, en agosto de 2004), pude entender la fuerte influencia que tuvo Rodríguez en este artista, el sistematizador del concepto "Arte Social" en Venezuela, cita y comenta constantemente a Rodríguez en sus diagramas y mapas mentales que pudimos observar en las salas de la GAN, y mucho de su estilo escritural (lleno de corchetes, _énfasis_, MAYÚSCULAS, y líneas conectoras) remite al estilo igualmente dinámico de S.R. Obviamente, tenía que ser un geografo el que aterrizara la práctica artística conceptual al contexto propiamente venezolano, territorializándolo y socializandolo como experencia creativa colectiva (De ahí su "Fotografía anónima de Venezuela" por ejemplo), y un pedagogo libertario y utopista tenía que ser una de sus mayores influencias. 
 
 [Volver](#sumario)
