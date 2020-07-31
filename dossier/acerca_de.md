@@ -83,8 +83,8 @@ No es mi intención abarcar en este apartado todos los aspectos de la complejida
 Dejo aquí algunos materiales complementarios sobre su vida y obra:
 links.
 
-*imagen_ENSEÑEN
 
+<center><img src="/dossier/3.-ENSENEN.gif" ></center>
 
 [Volver](#sumario)
 
