@@ -63,7 +63,7 @@ Noviembre de 2015.
 ## IV
 ## Acerca de esta ~~edición~~ ¿re-intepretación?
 
-*imagen_i_y
+<center><img src="/dossier/2.-E_re_edicion.gif" ></center>
 
 [Volver](#sumario)
 
