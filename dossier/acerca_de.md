@@ -74,8 +74,6 @@ el PROYECTO de esta obra
 como EXTRAÑA
 la ORTOGRAFÍA en que va escrito.</center>
 
-##### (p.5)
-
 Al inicio de la primera edición de S.A. Rodríguez hace un inciso con respecto a las reglas ortográficas de la época y su opinión según la cual habían letras del alfabeto castellano que para efectos del uso y habla americanos resultaban inútiles, por lo que proponía suprimirlas como forma de simplificar el alfabeto, la escritura y su comprensión lectora y conceptual. De esta manera vemos constantemente en dicha edición la sustitución en algunas palabras al uso de la letra "y" por "i", de "g" por "j", entre otros ejemplos similares, buscando emular en el papel la sonoridad y pronunciación propia de los latinoamericanos. 
 
 Un rápido repaso por los usos gramáticales de la época en nuestra región _(hablamos de mediados del siglo XIX)_, me reveló que no era el único que proponía dicha simplificación, y que incluso **Andrés Bello** proponía una gramática castellana para los americanos muy similar hacia 1844. Ninguna de dichas propuestas fue adoptada de manera sistemática y se termina unificando la gramática y ortografía con la castellana de España sugerida por la RAE hacia principios del siglo XX. 
@@ -88,9 +86,9 @@ Avisaos pueh.
 
 ## Sobre el carácter fragmentario
 
-Otra característica a considerar del presente proyecto es la selección mas o menos arbitraria y fragmentaria de sus frases y sentencias. Al respecto, invoco el carácter también fragmentario, a veces repetitivo y aparentemente intertextual de sus distintas ediciones. Rodríguez retoma y re-escribe mas o menos las mismas ideas con pequeñas variaciones a lo largo de los años. En ello influyen las numerosas dificultades que sorteó para ver publicado su proyecto republicano. Es así que la primera edición consistió apenas en un panfleto de 30 páginas, que en una segunda edición fue ampliada y revisada, publicando luego una suerte de guía o índice que trataba de darle unidad a un conjunto de textos aparentemente inconexos que se habían publicado en Arequipa (Perú) hacia 1828, Concepción (Chile) en 1834, Valparaíso (Chile) en 1840, Lima (Perú) en 1842 y Chillán (Perú) en 1864.
+Otra característica a considerar del presente proyecto es la selección mas o menos arbitraria y fragmentaria de sus frases y sentencias. Al respecto, invoco el carácter también fragmentario, a veces repetitivo y aparentemente intertextual de sus distintas ediciones. Rodríguez retoma y re-escribe mas o menos las mismas ideas con pequeñas variaciones a lo largo de los años. En ello influyen las numerosas dificultades que sorteó para ver publicado su proyecto republicano. Es así que la primera edición consistió apenas en un panfleto de 30 páginas, que en una segunda edición fue ampliada y revisada, publicando luego una suerte de guía o índice que trataba de darle unidad a un conjunto de textos que se habían publicado en Arequipa (Perú) hacia 1828, Concepción (Chile) en 1834, Valparaíso (Chile) en 1840, Lima (Perú) en 1842 y Chillán (Perú) en 1864.
 
-El investigador tal tal, ante este complejo problema, asume a Sociedades Americanas como un "modelo para armar", e incluso sugiere que el mismo es un "". En el espiritu de ese planteamiento, y en consonancia con las lógicas no-lineales e hipertextuales propias del Internet, es que propongo esta edición/re-interpretación. Como un ejercicio también hermenéutico, buscando ""
+El investigador tal tal, ante este complejo problema, asume a Sociedades Americanas como un "modelo para armar", e incluso sugiere que el mismo es un "". En el espiritu de ese planteamiento, y en consonancia con las lógicas no-lineales e hipertextuales propias del Internet, es que propongo esta edición/re-interpretación. Como un ejercicio también hermenéutico, buscando, a través de su lectura _"...revivir ideas sepultadas en el papel"._
 
 [Volver](#sumario)
 
