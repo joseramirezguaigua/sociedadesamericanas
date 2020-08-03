@@ -69,10 +69,11 @@ Noviembre de 2015.
 
 Cuando empecé a bocetear el presente proyecto surgió un problema importante a considerar: si debía o no mantener el estilo "ortológico" (como él mismo lo llamó) que Rodríguez propuso en sus ediciones originales. 
 
-<center>Tan EXÓTICO debe parecer
-el PROYECTO de esta obra
-como EXTRAÑA
-la ORTOGRAFÍA en que va escrito.</center>
+<center>Tan EXÓTICO debe parecer<br>
+el PROYECTO de esta obra<br>
+como EXTRAÑA<br>
+la ORTOGRAFÍA en que va escrito.</center><br>
+
 
 Al inicio de la primera edición de S.A. Rodríguez hace un inciso con respecto a las reglas ortográficas de la época y su opinión según la cual habían letras del alfabeto castellano que para efectos del uso y habla americanos resultaban inútiles, por lo que proponía suprimirlas como forma de simplificar el alfabeto, la escritura y su comprensión lectora y conceptual. De esta manera vemos constantemente en dicha edición la sustitución en algunas palabras al uso de la letra "y" por "i", de "g" por "j", entre otros ejemplos similares, buscando emular en el papel la sonoridad y pronunciación propia de los latinoamericanos. 
 
@@ -86,9 +87,13 @@ Avisaos pueh.
 
 ## Sobre el carácter fragmentario
 
-Otra característica a considerar del presente proyecto es la selección mas o menos arbitraria y fragmentaria de sus frases y sentencias. Al respecto, invoco el carácter también fragmentario, a veces repetitivo y aparentemente intertextual de sus distintas ediciones. Rodríguez retoma y re-escribe mas o menos las mismas ideas con pequeñas variaciones a lo largo de los años. En ello influyen las numerosas dificultades que sorteó para ver publicado su proyecto republicano. Es así que la primera edición consistió apenas en un panfleto de 30 páginas, que en una segunda edición fue ampliada y revisada, publicando luego una suerte de guía o índice que trataba de darle unidad a un conjunto de textos que se habían publicado en Arequipa (Perú) hacia 1828, Concepción (Chile) en 1834, Valparaíso (Chile) en 1840, Lima (Perú) en 1842 y Chillán (Perú) en 1864.
+Otra característica a considerar del presente proyecto es la selección mas o menos arbitraria y fragmentaria de sus frases y sentencias. Al respecto, invoco el carácter también fragmentario, a veces repetitivo y aparentemente intertextual de sus distintas ediciones en vida. Rodríguez retoma y re-escribe mas o menos las mismas ideas con pequeñas variaciones a lo largo de los años. En ello influyen las numerosas dificultades que sorteó para ver publicado su proyecto republicano. Es así que la primera edición consistió apenas en un folleto de 28 páginas, que en una segunda edición retoma y amplia, publicando luego una suerte de guía o índice que trataría de darle unidad a un conjunto de textos que se habrán de publicar en Arequipa (Perú) hacia 1828, Concepción (Chile) en 1834, Valparaíso (Chile) en 1840, Lima (Perú) en 1842 y Chillán (Perú) en 1864.
 
-El investigador tal tal, ante este complejo problema, asume a Sociedades Americanas como un "modelo para armar", e incluso sugiere que el mismo es un "". En el espiritu de ese planteamiento, y en consonancia con las lógicas no-lineales e hipertextuales propias del Internet, es que propongo esta edición/re-interpretación. Como un ejercicio también hermenéutico, buscando, a través de su lectura _"...revivir ideas sepultadas en el papel"._
+El investigador y filólogo <a href="https://www.redalyc.org/jatsRepo/279/27950107009/html/index.html#fn40" target="_blank"> Rafael Mondragón, ante este complejo problema, asume a Sociedades Americanas como un modelo para armar</a>, indicando que: 
+
+_"...es una obra inconclusa, abierta, que ofrece a sus lectores la posibilidad única de entrar al taller del pensamiento de Rodríguez, y acompañarlo en el proceso de pensar y repensar los temas que le preocupan. Tiene la generosidad de todas las obras abiertas: no ofrece un pensamiento terminado. Invita a la apropiación y la polémica." (2016:s.p)_
+
+e incluso sugiere que el mismo es un _"un libro parcialmente inédito, quizá inconcluso, quizá infinito"_. En el espiritu de ese planteamiento, y en consonancia con las lógicas no-lineales e hipertextuales propias del Internet, es que propongo esta edición/re-interpretación. Como un ejercicio también hermenéutico, buscando, a través de su lectura _"...revivir ideas sepultadas en el papel"._
 
 [Volver](#sumario)
 
