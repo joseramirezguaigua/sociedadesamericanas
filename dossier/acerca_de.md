@@ -86,6 +86,8 @@ Avisaos pueh.
 
 Otra característica a considerar del presente proyecto es la selección mas o menos arbitraria y fragmentaria de sus frases y sentencias. Al respecto, invoco el carácter también fragmentario, a veces repetitivo y aparentemente inconexo de sus distintas ediciones. Rodríguez retoma y re-escribe mas o menos las mismas ideas con pequeñas variaciones a lo largo de los años. En ello influyen las numerosas dificultades que sorteó para ver publicado su proyecto republicano. Es así que la primera edición consistió apenas en un panfleto de 30 páginas, que en una segunda edición fue ampliada y revisada, publicando luego una suerte de guía o índice que trataba de darle unidad a un conjunto de textos aparentemente inconexos que se habían publicado en Quito hacia 18.., en Lima, en Colombia etc.
 
+El investigador tal tal, ante este complejo problema, asume a Sociedades Americanas como un "modelo para armar", e incluso sugiere que el mismo es un "". En el espiritu de ese planteamiento, y en consonancia con las lógicas no-lineales e hipertextuales propias del Internet, es que propongo esta edición/re-interpretación. 
+
 [Volver](#sumario)
 
 ## V
