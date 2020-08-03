@@ -100,16 +100,18 @@ El investigador tal tal, ante este complejo problema, asume a Sociedades America
 
 Aunque mayormente conocido como el maestro del prócer independentista y **Libertador Simón Bolívar**, **Rodríguez** resulta ser un personaje de gran importancia para todo el continente americano, para la historia de una filosofía genuinamente propia en/de y desde _Nuestra América_ _(Abya Yala, América Látina, cómo lo quieran llamar)_, y para nuestra historia como región del mundo. Sin exagerar, el pensamiento rodrigueano o robinsoniano fue una propuesta sistemática de avanzada para su época. De ahí quizás su subestimación por parte de las élites de aquel momento. 
 
-Su propuesta podría sintetizarse en un **Republicanismo radical, antirracista e intercultural** _(al menos de manera incipiente)_, abogando por la constitución de _"Sociedades Americanas"_ originales, no meras réplicas de otras sociedades _(la europea o la estadounidense, específicamente)_ cuyos cimientos serían la **educación popular** _(sin distinción de razas o clases)_, a través de una pedagogía materialista _("tratar con las cosas, es la primera parte de la educación...")_ e integral, en que el saber intelectual se conjugaría con el saber manual. De allí su propuesta de que cada **Escuela de Educación Popular** debía enseñar además de las lenguas y las ciencias matemáticas, albañilería, carpintería y herrería, pues: _"madera, barro y hierro son los materiales de que está hecho todo cuanto ha inventado el hombre."_ En sentido estricto, su propuesta pedagógica es todo lo contrario al paradigma dominante en los sistemas educativos del continente, basados en la memorización y la evaluación serial de habilidades. A su vez, inaugura toda una línea de investigación en relación a modelos educativos libertarios y populares en nuestro continente.
+Su propuesta podría sintetizarse en un **Republicanismo radical, antirracista e intercultural** _(al menos de manera incipiente)_, abogando por la constitución de _"Sociedades Americanas"_ originales, no meras réplicas de otras sociedades _(la europea o la estadounidense, específicamente)_ cuyos cimientos serían la **educación popular** _(sin distinción de razas o clases)_, a través de una pedagogía materialista _("tratar con las cosas, es la primera parte de la educación...")_ e integral, en que el saber intelectual se conjugaría con el saber manual. De allí su propuesta de que cada **Escuela Social** debía enseñar además de la lengua castellana; la quechua, y además de las ciencias matemáticas; la albañilería, carpintería y herrería _"porque con tierras, maderas y metales se hacen las cosas mas necesarias, y porque las operaciones de las artes mecánicas secundarias, dependen del conocimiento de las primeras"_ 
+
+En sentido estricto, su propuesta pedagógica es todo lo contrario al paradigma dominante en los sistemas educativos del continente, basados en la memorización y la evaluación serial de habilidades. A su vez, inaugura toda una tradición investigativa en relación a modelos educativos libertarios y populares en nuestro continente que buscan precisamente superar ese modelo hegemónico antes descrito.
 
 No es mi intención abarcar en este apartado todos los aspectos de la complejidad de aquel personaje. Solo dejo constancia de su pensar a través de esta brevísima síntesis. Invitando a quién haya despertado su interés en el mismo, adentrarse a leerlo y re-descubrirlo. 
 
 Dejo aquí algunos materiales complementarios sobre su vida y obra:
 links.
 
-- Sociedades Americanas. Biblioteca Ayacucho
-- Sociedades Americanas. Chile 1845
-- Defensa de Bolívar. Biblioteca Nacional. 1914
+- Sociedades Americanas. Biblioteca Ayacucho - 1990.
+- Sociedades Americanas. Chile - 1845
+- Defensa de Bolívar. Biblioteca Nacional - 1914
 
 <center><img src="/dossier/3.-ENSENEN.gif" ></center>
 
