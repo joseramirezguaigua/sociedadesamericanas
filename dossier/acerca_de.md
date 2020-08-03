@@ -79,7 +79,7 @@ Al inicio de la primera edición de S.A. Rodríguez hace un inciso con respecto 
 
 Un rápido repaso por los usos gramáticales de la época en nuestra región _(hablamos de mediados del siglo XIX)_, me reveló que no era el único que proponía dicha simplificación, y que incluso **Andrés Bello** proponía <a href="https://www.elcastellano.org/ns/edicion/2002/mayo/lodares4.html">una gramática castellana para los americanos muy similar hacia 1847.</a> Ninguna de dichas propuestas fue adoptada de manera sistemática y se termina unificando la gramática y ortografía con la castellana de España sugerida por la RAE hacia principios del siglo XX. 
 
-Para curarme en salud, y ante la corroboración de muchas variaciones según la edición que se consulte de sus escritos y los caprichos de sus compiladores, decidí ceñirme a la edición del año 1990 que hace la editorial Biblioteca Ayacucho, que adapta los escritos al uso ortográfico corriente pero mantiene en lo posible la experimentación formal en la página propuesta por Rodríguez. 
+Para curarme en salud, y ante la corroboración de muchas variaciones según la edición que se consulte de sus escritos y los caprichos de sus compiladores, decidí ceñirme a la edición del año _1990_ que hace la editorial **Biblioteca Ayacucho**,  que adapta los escritos al uso ortográfico corriente pero mantiene en lo posible la experimentación formal en _la página_, propuesta por Rodríguez. 
 
 Queda hecha la advertencia, adelantándome al juicio de posibles especialistas, puristas y simonrodriguistas que se topen algún día con esta web. 
 
