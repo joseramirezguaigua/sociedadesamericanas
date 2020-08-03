@@ -65,6 +65,27 @@ Noviembre de 2015.
 
 <center><img src="/dossier/2.-E_re_edicion.gif" ></center>
 
+## Sobre la ortografía
+
+Cuando empecé a bocetear el presente proyecto surgió un problema importante a considerar: si debía o no mantener el estilo "ortológico" (como él mismo lo llamó) que Rodríguez propuso en sus ediciones originales. 
+
+TAN EXÓTICO PARECERÁ EL PRESENTE PROYECTO
+COMO LA ORTOGRAFÍA EN QUE VA ESCRITA
+
+al inicio de la primera edición de S.A. Rodríguez hace un inciso con respecto a las reglas ortográficas de la época y su opinión según la cual habían letras del alfabeto castellano que para efectos del uso y habla americanos resultaban inútiles, por lo que proponía suprimirlas como forma de simplificar el alfabeto, la escritura y su comprensión lectora y conceptual. De esta manera vemos constantemente en dicha edición la sustitución en algunas palabras al uso de la letra "y" por "i", de "g" por "j", entre otros ejemplos similares, buscando emular en el papel la sonoridad y pronunciación propia de los latinoamericanos. 
+
+Un rápido repaso por los usos gramáticales de la época en nuestra región _(hablamos de mediados del siglo XIX)_, me reveló que no era el único que proponía dicha simplificación, y que incluso **Andrés Bello** proponía una gramática castellana para los americanos muy similar hacia 1844. Ninguna de dichas propuestas fue adoptada de manera sistemática y se termina unificando la gramática y ortografía con la castellana de España sugerida por la RAE hacia principios del siglo XX. 
+
+Para curarme en salud, y ante la corroboración de muchas variaciones según la edición que se consulte de sus escritos y los caprichos de sus compiladores, decidí ceñirme a la edición de la editorial Biblioteca Ayacucho, que adapta los escritos al uso ortográfico corriente pero mantiene en lo posible la experimentación formal en la página propuesta por Rodríguez. 
+
+Queda hecha la advertencia, adelantándome al juicio de posibles especialistas, puristas y simonrodriguistas que se topen algún día con esta web. 
+
+Avisaos.
+
+
+
+## Sobre el carácter fragmentario
+
 [Volver](#sumario)
 
 ## V
