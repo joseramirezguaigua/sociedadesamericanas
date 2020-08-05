@@ -111,12 +111,17 @@ En sentido estricto, su propuesta pedagógica es todo lo contrario al paradigma 
 
 No es mi intención abarcar en este apartado todos los aspectos de la complejidad de aquel personaje. Solo dejo constancia de su pensar a través de esta brevísima síntesis. Invitando a quién haya despertado su interés en el mismo, adentrarse a leerlo y re-descubrirlo. 
 
-Dejo aquí algunos materiales complementarios sobre su vida y obra:
-links.
+Dejo aquí su obra compendiada en diferentes ediciones, y un par de ediciones originales:
 
+links.
+- Obras Completas. UNESR
 - Sociedades Americanas. Biblioteca Ayacucho - 1990.
-- Sociedades Americanas. Chile - 1845
-- Defensa de Bolívar. Biblioteca Nacional - 1914
+- Inventamos o erramos. Monteávila Editores - 2007
+
+Ediciones originales
+
+- Sociedades Americanas en 1828 (1842). Chillán - 1864
+- Defensa de Bolívar. Biblioteca Nacional - 1830
 
 <center><img src="/dossier/3.-ENSENEN.gif" ></center>
 
