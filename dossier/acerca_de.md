@@ -101,8 +101,8 @@ Incluso sugiere que el mismo es un _"un libro parcialmente inédito, quizá inco
 ## V
 ## Acerca del maestro y filósofo Simón Rodríguez
 
-##### "Hace 24 años que estoy hablando, y escribiendo pública y privadamente, sobre el sistema Repúblicano, y, por todo fruto de mis buenos oficios, he conseguido que me traten de LOCO."
-<p align="right"> <b>Simón Rodríguez. Luces y virtudes sociales</b></p>
+**"Hace 24 años que estoy hablando, y escribiendo pública y privadamente, sobre el sistema Repúblicano, y, por todo fruto de mis buenos oficios, he conseguido que me traten de LOCO."**
+<p align="right"> <b>Simón Rodríguez. Inventamos o erramos. p.195</b></p>
 
 Aunque mayormente conocido como el maestro del prócer independentista y **Libertador Simón Bolívar**, **Rodríguez** resulta ser un personaje de gran importancia para todo el continente americano, para la historia de una filosofía genuinamente propia en/de y desde _Nuestra América_ _(Abya Yala, América Látina, cómo lo quieran llamar)_, y para nuestra historia como región del mundo. Sin exagerar, el pensamiento rodrigueano o robinsoniano fue una propuesta sistemática de avanzada para su época. De ahí quizás su subestimación por parte de las élites de aquel momento. 
 
