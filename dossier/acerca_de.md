@@ -74,6 +74,7 @@ el PROYECTO de esta obra<br>
 como EXTRAÑA<br>
 la ORTOGRAFÍA en que va escrito.</center><br>
 
+(RODRÍGUEZ, 1990:)
 
 Al inicio de la primera edición de S.A. Rodríguez hace un inciso con respecto a las reglas ortográficas de la época y su opinión según la cual habían letras del alfabeto castellano que para efectos del uso y habla americanos resultaban inútiles, por lo que proponía suprimirlas como forma de simplificar el alfabeto, la escritura y su comprensión lectora y conceptual. De esta manera vemos constantemente en dicha edición la sustitución en algunas palabras al uso de la letra "y" por "i", de "g" por "j", entre otros ejemplos similares, buscando emular en el papel la sonoridad y pronunciación propia de los latinoamericanos. 
 
@@ -87,13 +88,13 @@ Avisaos pueh.
 
 ## Sobre el carácter fragmentario
 
-Otra característica a considerar del presente proyecto es la selección mas o menos arbitraria y fragmentaria de sus frases y sentencias. Al respecto, invoco el carácter también fragmentario, a veces repetitivo y aparentemente intertextual de sus distintas ediciones en vida. Rodríguez retoma y re-escribe mas o menos las mismas ideas con pequeñas variaciones a lo largo de los años. En ello influyen las numerosas dificultades que sorteó para ver publicado su proyecto republicano. Es así que la primera edición consistió apenas en un folleto de 28 páginas, que en una segunda edición retoma y amplia, publicando luego una suerte de guía o índice que trataría de darle unidad a un conjunto de textos que se habrán de publicar en Arequipa (Perú) hacia 1828, Concepción (Chile) en 1834, Valparaíso (Chile) en 1840, Lima (Perú) en 1842 y Chillán (Perú) en 1864.
+Otra característica a considerar del presente proyecto es la selección mas o menos arbitraria y fragmentaria de sus frases y sentencias. Al respecto, invoco el carácter también fragmentario, a veces repetitivo y aparentemente intertextual de sus distintas ediciones en vida. Rodríguez retoma y re-escribe mas o menos las mismas ideas con pequeñas variaciones a lo largo de los años. En ello influyen las numerosas dificultades que sorteó para ver publicado su proyecto republicano. Es así que la primera edición consistió apenas en un folleto de 28 páginas, que en una segunda edición retoma y amplia, publicando luego una suerte de guía o índice que trataría de darle unidad a un conjunto de textos que se habrán de publicar en Arequipa (Perú) hacia 1828, Concepción (Chile) en 1834, Valparaíso (Chile) en 1840, Lima (Perú) en 1842 y Chillán (Chile) en 1864.
 
 El investigador y filólogo <a href="https://www.redalyc.org/jatsRepo/279/27950107009/html/index.html" target="_blank"> Rafael Mondragón, ante este complejo panorama, asume a Sociedades Americanas como un modelo para armar</a>, indicando que: 
 
 _"...es una obra inconclusa, abierta, que ofrece a sus lectores la posibilidad única de entrar al taller del pensamiento de Rodríguez, y acompañarlo en el proceso de pensar y repensar los temas que le preocupan. Tiene la generosidad de todas las obras abiertas: no ofrece un pensamiento terminado. Invita a la apropiación y la polémica." (2016:s.p)_
 
-e incluso sugiere que el mismo es un _"un libro parcialmente inédito, quizá inconcluso, quizá infinito"_. En el espiritu de ese planteamiento, y en consonancia con las lógicas no-lineales e hipertextuales propias del Internet, es que propongo esta edición/re-interpretación. Como un ejercicio también hermenéutico, buscando, a través de su lectura _"...revivir ideas sepultadas en el papel"._
+Incluso sugiere que el mismo es un _"un libro parcialmente inédito, quizá inconcluso, quizá infinito" (2016:s.p)_. En el espiritu de ese planteamiento, y en consonancia con las lógicas no-lineales e hipertextuales propias del Internet, es que propongo esta edición/re-interpretación. Como un ejercicio también hermenéutico, buscando, a través de su lectura _"...resucitar ideas sepultadas en el papel" (1990:)._
 
 [Volver](#sumario)
 
@@ -105,23 +106,24 @@ e incluso sugiere que el mismo es un _"un libro parcialmente inédito, quizá in
 
 Aunque mayormente conocido como el maestro del prócer independentista y **Libertador Simón Bolívar**, **Rodríguez** resulta ser un personaje de gran importancia para todo el continente americano, para la historia de una filosofía genuinamente propia en/de y desde _Nuestra América_ _(Abya Yala, América Látina, cómo lo quieran llamar)_, y para nuestra historia como región del mundo. Sin exagerar, el pensamiento rodrigueano o robinsoniano fue una propuesta sistemática de avanzada para su época. De ahí quizás su subestimación por parte de las élites de aquel momento. 
 
-Su propuesta podría sintetizarse en un **Republicanismo radical, antirracista e intercultural** _(al menos de manera incipiente)_, abogando por la constitución de _"Sociedades Americanas"_ originales, no meras réplicas de otras sociedades _(la europea o la estadounidense, específicamente)_ cuyos cimientos serían la **educación popular** _(sin distinción de razas o clases)_, a través de una pedagogía materialista _("tratar con las cosas, es la primera parte de la educación...")_ e integral, en que el saber intelectual se conjugaría con el saber manual. De allí su propuesta de que cada **Escuela Social** debía enseñar además de la lengua castellana; la quechua, y además de las ciencias matemáticas; la albañilería, carpintería y herrería _"porque con tierras, maderas y metales se hacen las cosas mas necesarias, y porque las operaciones de las artes mecánicas secundarias, dependen del conocimiento de las primeras"_ 
+Su propuesta podría sintetizarse en un **Republicanismo radical, antirracista e intercultural** _(al menos de manera incipiente)_, abogando por la constitución de _"Sociedades Americanas"_ originales, no meras réplicas de otras sociedades _(la europea o la estadounidense, específicamente)_ cuyos cimientos serían la **educación popular** _(sin distinción de razas o clases)_, a través de una pedagogía materialista _("tratar con las cosas, es la primera parte de la educación...")_ e integral, en que el saber intelectual se conjugaría con el saber manual. De allí su propuesta de que cada **Escuela Social** debía enseñar además de la lengua castellana; la quechua, y además de las ciencias matemáticas; la albañilería, carpintería y herrería _"porque con tierras, maderas y metales se hacen las cosas mas necesarias, y porque las operaciones de las artes mecánicas secundarias, dependen del conocimiento de las primeras"()_ 
 
 En sentido estricto, su propuesta pedagógica es todo lo contrario al paradigma dominante en los sistemas educativos del continente, basados en la memorización de datos y la evaluación serial de habilidades. A su vez, inaugura toda una tradición investigativa en relación a modelos educativos libertarios y populares en nuestro continente que buscan precisamente superar ese modelo hegemónico antes descrito.
 
 No es mi intención abarcar en este apartado todos los aspectos de la complejidad de aquel personaje. Solo dejo constancia de su pensar a través de esta brevísima síntesis. Invitando a quién haya despertado su interés en el mismo, adentrarse a leerlo y re-descubrirlo. 
 
-Dejo aquí su obra compendiada en diferentes ediciones, y un par de ediciones originales:
+Dejo aquí su obra compendiada en diferentes ediciones, y un par de ediciones originales para su descarga:
 
-links.
-- Obras Completas. UNESR
-- Sociedades Americanas. Biblioteca Ayacucho - 1990.
-- Inventamos o erramos. Monteávila Editores - 2007
+**Re-ediciones actuales**
 
-Ediciones originales
+- Simón Rodríguez, Obras Completas. UNESR - 2016
+- Inventamos o erramos. Monteávila Editores - 2004
+- Sociedades Americanas. Biblioteca Ayacucho - 1990
 
-- Sociedades Americanas en 1828 (1842). Chillán - 1864
-- Defensa de Bolívar. Biblioteca Nacional - 1830
+**Ediciones originales**
+
+- Sociedades Americanas en 1828. Chillán - 1864
+- Defensa de Bolívar. Edición original de 1830
 
 <center><img src="/dossier/3.-ENSENEN.gif" ></center>
 
