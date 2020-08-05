@@ -116,15 +116,18 @@ No es mi intención abarcar en este apartado todos los aspectos de la complejida
 Dejo aquí su obra compendiada en diferentes ediciones, y un par de ediciones originales para su descarga:
 
 **Re-ediciones actuales**
-
-- Simón Rodríguez, Obras Completas. UNESR - 2016
-- Inventamos o erramos. Monteávila Editores - 2004
-- Sociedades Americanas. Biblioteca Ayacucho - 1990
+<a href="https://www.mediafire.com/file/3efjfpkliewt5ra/Simon-Rodriguez-Obras-Completas.pdf/file" target="_blank">
+- Simón Rodríguez, Obras Completas. UNESR - 2016</a>
+<a href="https://www.mediafire.com/file/5pdufc6772h30je/inventamos-o-erramos.pdf/file" target="_blank">
+- Inventamos o erramos. Monteávila Editores - 2004</a>
+<a href="https://www.mediafire.com/file/8y9ey43mswrc0vu/Sociedades_americanas-Simon_Rodriguez.pdf/file" target="_blank">
+- Sociedades Americanas. Biblioteca Ayacucho - 1990</a>
 
 **Ediciones originales**
-
-- Sociedades Americanas en 1828. Chillán - 1864
-- Defensa de Bolívar. Edición original de 1830
+<a href="https://www.mediafire.com/file/xgw8wh77bmg17hp/Sociedades_Americanas_(1864).pdf/file" target="_blank">
+- Sociedades Americanas en 1828. Chillán - 1864</a>
+<a href="https://www.mediafire.com/file/aq79riuhzhdyyia/Defensa_de_bolivar_1830.pdf/file" target="_blank">
+- Defensa de Bolívar. Edición original de 1830</a>
 
 <center><img src="/dossier/3.-ENSENEN.gif" ></center>
 
