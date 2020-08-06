@@ -67,7 +67,7 @@ Noviembre de 2015.
 
 # Sobre la ortografía
 
-Cuando empecé a bocetear el presente proyecto surgió un problema importante a considerar: si debía o no mantener el estilo "ortológico" (como él mismo lo llamó) que Rodríguez propuso en sus ediciones originales. 
+Cuando empecé a bocetear el presente proyecto surgió un problema importante a considerar: si debía o no mantener el estilo _"ortológico"_ (como él mismo lo llamó) que Rodríguez propuso en sus ediciones originales. 
 
 <center>Tan EXÓTICO debe parecer<br>
 el PROYECTO de esta obra<br>
@@ -80,7 +80,7 @@ Al inicio de la primera edición de S.A. Rodríguez hace un inciso con respecto 
 
 Un rápido repaso por los usos gramáticales de la época en nuestra región _(hablamos de mediados del siglo XIX)_, me reveló que no era el único que proponía dicha simplificación, y que incluso **Andrés Bello** proponía <a href="https://www.elcastellano.org/ns/edicion/2002/mayo/lodares4.html" target="_blank">una gramática castellana para los americanos muy similar hacia 1847.</a> Ninguna de dichas propuestas fue adoptada de manera sistemática y se termina unificando la gramática y ortografía con la castellana de España sugerida por la RAE hacia principios del siglo XX. 
 
-Para curarme en salud, y ante la corroboración de muchas variaciones según la edición que se consulte de sus escritos y los caprichos de sus compiladores, decidí ceñirme a la edición del año _1990_ que hace la editorial **Biblioteca Ayacucho**,  que adapta los escritos al uso ortográfico corriente pero mantiene en lo posible la experimentación formal en _la página_, propuesta por Rodríguez. 
+Para curarme en salud, y ante la corroboración de muchas variaciones según la edición que se consulte de sus escritos y los caprichos de sus compiladores, decidí ceñirme a la edición del año _1990_ que hace la editorial **Biblioteca Ayacucho**,  que adapta los escritos al uso ortográfico corriente pero mantiene en lo posible la experimentación formal en _la página_, propuesta por Rodríguez. Esto también contribuye, a mi parecer, a no distraer la atención de los lectores actuales con respecto a las ideas expresadas en cada frase.
 
 Queda hecha la advertencia, adelantándome al juicio de posibles especialistas, puristas y simonrodriguistas que se topen algún día con esta web. 
 
@@ -88,7 +88,7 @@ Avisaos pueh.
 
 # Sobre el carácter fragmentario
 
-Otra característica a considerar del presente proyecto es la selección mas o menos arbitraria y fragmentaria de sus frases y sentencias. Al respecto, invoco el carácter también fragmentario, a veces repetitivo y aparentemente intertextual de sus distintas ediciones en vida. Rodríguez retoma y re-escribe mas o menos las mismas ideas con pequeñas variaciones a lo largo de los años. En ello influyen las numerosas dificultades que sorteó para ver publicado su proyecto republicano. Es así que la primera edición consistió apenas en un folleto de 28 páginas, que en una segunda edición retoma y amplia, publicando luego una suerte de guía o índice que trataría de darle unidad a un conjunto de textos que se habrán de publicar en Arequipa (Perú) hacia 1828, Concepción (Chile) en 1834, Valparaíso (Chile) en 1840 y Lima (Perú) en 1842.
+Otra característica a considerar de **S.A.2.0** es la selección mas o menos arbitraria y fragmentaria de sus frases y sentencias. Al respecto, invoco el carácter también fragmentario, a veces repetitivo y aparentemente intertextual de sus distintas ediciones en vida. Rodríguez retoma y re-escribe mas o menos las mismas ideas con pequeñas variaciones a lo largo de los años. En ello influyen las numerosas dificultades que sorteó para ver publicado su proyecto republicano. Es así que la primera edición consistió apenas en un folleto de 28 páginas, que en una segunda edición retoma y amplia, publicando luego una suerte de guía o índice que trataría de darle unidad a un conjunto de textos que se habrán de publicar en Arequipa (Perú) hacia 1828, Concepción (Chile) en 1834, Valparaíso (Chile) en 1840 y Lima (Perú) en 1842.
 
 El investigador y filólogo <a href="https://www.redalyc.org/jatsRepo/279/27950107009/html/index.html" target="_blank"> Rafael Mondragón, ante este complejo panorama, asume a Sociedades Americanas como un modelo para armar</a>, indicando que: 
 
@@ -107,7 +107,7 @@ Incluso sugiere que el mismo es un _"un libro parcialmente inédito, quizá inco
 
 Aunque mayormente conocido como el maestro del prócer independentista y **Libertador Simón Bolívar**, **Rodríguez** resulta ser un personaje de gran importancia para todo el continente americano, para la historia de una filosofía genuinamente propia en/de y desde _Nuestra América_ _(Abya Yala, América Látina, cómo lo quieran llamar)_, y para nuestra historia como región del mundo. Sin exagerar, el pensamiento rodrigueano o robinsoniano fue una propuesta sistemática de avanzada para su época. De ahí quizás su subestimación por parte de las élites de aquel momento. 
 
-Su propuesta podría sintetizarse en un **Republicanismo radical, antirracista e intercultural** _(al menos de manera incipiente)_, abogando por la constitución de _"Sociedades Americanas"_ originales, no meras réplicas de otras sociedades _(la europea o la estadounidense, específicamente)_ cuyos cimientos serían la **educación popular** _(sin distinción de razas o clases)_, a través de una pedagogía materialista _("tratar con las cosas, es la primera parte de la educación..." (RODRÍGUEZ,1990:p.99))_ e integral, en que el saber intelectual se conjugaría con el saber manual. De allí su propuesta de que cada **Escuela Social** debía enseñar además de la lengua castellana; la quechua, y además de las ciencias matemáticas; la albañilería, carpintería y herrería _"porque con tierras, maderas y metales se hacen las cosas mas necesarias, y porque las operaciones de las artes mecánicas secundarias, dependen del conocimiento de las primeras"(RODRÍGUEZ,2004:p.55)_ 
+Su propuesta podría sintetizarse en un **Republicanismo radical, antirracista e intercultural** _(al menos de manera incipiente)_, abogando por la constitución de _"Sociedades Americanas"_ originales, no meras réplicas de otras sociedades _(la europea o la estadounidense, específicamente)_ cuyos cimientos serían la **educación popular** _(sin distinción de razas o clases)_, a través de una pedagogía materialista _("tratar con las cosas, es la primera parte de la educación..." (RODRÍGUEZ,1990:p.99))_ e integral, en que el saber intelectual se conjugaría con el saber manual. De allí su propuesta para los países andinos de que cada **Escuela Social** debía enseñar además de la lengua castellana; la quechua, y además de las ciencias matemáticas; la albañilería, carpintería y herrería _"porque con tierras, maderas y metales se hacen las cosas mas necesarias, y porque las operaciones de las artes mecánicas secundarias, dependen del conocimiento de las primeras"(RODRÍGUEZ,2004:p.55)_ 
 
 En sentido estricto, su propuesta pedagógica es todo lo contrario al paradigma dominante en los sistemas educativos del continente, basados en la memorización de datos y la evaluación serial de habilidades. A su vez, inaugura toda una tradición investigativa en relación a modelos educativos libertarios y populares en nuestro continente que buscan precisamente superar ese modelo hegemónico antes descrito.
 
@@ -144,5 +144,17 @@ Estas dos referencias desde el arte contemporáneo hacia la obra de **Rodríguez
 
 Quedan saldadas pues, mis deudas con respecto a las ideas germinales que me llevan a realizar un proyecto de estas características. 
 
+
+[Volver](#sumario)
+
+## VII
+
+## Referencias 
+
+No era mi intención inicial concluir este dossier mas o menos caótico con un apartado dedicado a referencias bibliográficas y no bibliográficas. Pero mis vicios (¿o aspiraciones?) de académico y mi intento por parecer riguroso me llevaron a citar algunos textos en los apartados anteriores. Dejo aquí las referencias.
+
+- MONDRAGÓN, Rafael (2016) Hacia una edición crítica de Sociedades americanas en 1828 de Simón Rodríguez: claves para la reconstrucción de un proyecto editorial. Revista Utopia y Praxis de la Universidad del Zulia. Disponible en: https://www.redalyc.org/jatsRepo/279/27950107009/html/index.html
+- RODRÍGUEZ, Simón (2010) Inventamos o erramos. Caracas - El Perro y la Rana.
+- RODRÍGUEZ, Simón (1990) Sociedades Americanas. Caracas - Biblioteca Ayacucho.
 
 [Volver](#sumario)
