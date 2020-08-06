@@ -3,6 +3,7 @@
 
 ## Acerca de este proyecto
 por José Ramírez Guaigua
+jose.ramirez.guaigua@gmail.com
 
    En esta sección encontrarán breves reflexiones y _consideraciones teóricas y prácticas_ en torno al presente proyecto.  
   
