@@ -140,6 +140,8 @@ De la mano de **Luis Camnitzer** _(artista conceptual urugayo)_ y **Claudio Pern
 
 De lo anteriormente expuesto extraigo un par de ideas importantes, disculpándome de antemano por la disgresión: Obviamente, tenía que ser un geógrafo el que aterrizara la práctica artística conceptual al contexto propiamente venezolano, territorializándolo y socializándolo como experencia creativa colectiva _(De ahí su "Fotografía anónima de Venezuela" por ejemplo)_, y un pedagogo libertario y utopista como **S.R.** tenía que ser una de sus mayores influencias para ello. 
 
+Estas dos referencias desde el arte contemporáneo hacia la obra de Rodríguez llamaron mi atención desde entonces, y a partír de allí procuré conocer su obra escrita, encontrando una propuesta filosófica y política con poderosas resonancias para la actualidad. 
+
 
 
 [Volver](#sumario)
