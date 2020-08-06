@@ -74,7 +74,7 @@ el PROYECTO de esta obra<br>
 como EXTRAÑA<br>
 la ORTOGRAFÍA en que va escrito.</center><br>
 
-<p align="right">(RODRÍGUEZ, 1990:p.5)</p>
+<p align="right">(RODRÍGUEZ,1990:p.5)</p>
 
 Al inicio de la primera edición de S.A. Rodríguez hace un inciso con respecto a las reglas ortográficas de la época y su opinión según la cual habían letras del alfabeto castellano que para efectos del uso y habla americanos resultaban inútiles, por lo que proponía suprimirlas como forma de simplificar el alfabeto, la escritura y su comprensión lectora y conceptual. De esta manera vemos constantemente en dicha edición la sustitución en algunas palabras al uso de la letra "y" por "i", de "g" por "j", entre otros ejemplos similares, buscando emular en el papel la sonoridad y pronunciación propia de los latinoamericanos. 
 
@@ -94,7 +94,7 @@ El investigador y filólogo <a href="https://www.redalyc.org/jatsRepo/279/279501
 
 _"...es una obra inconclusa, abierta, que ofrece a sus lectores la posibilidad única de entrar al taller del pensamiento de Rodríguez, y acompañarlo en el proceso de pensar y repensar los temas que le preocupan. Tiene la generosidad de todas las obras abiertas: no ofrece un pensamiento terminado. Invita a la apropiación y la polémica." (2016:s.p)_
 
-Incluso sugiere que el mismo es un _"un libro parcialmente inédito, quizá inconcluso, quizá infinito" (2016:s.p)_. En el espiritu de ese planteamiento, y en consonancia con las lógicas no-lineales e hipertextuales propias del Internet, es que propongo esta edición/re-interpretación. Como un ejercicio también hermenéutico, buscando, a través de su lectura _"...resucitar ideas, sepultadas en el papel"_ (RODRÍGUEZ, 1990:p. 273).
+Incluso sugiere que el mismo es un _"un libro parcialmente inédito, quizá inconcluso, quizá infinito" (2016:s.p)_. En el espiritu de ese planteamiento, y en consonancia con las lógicas no-lineales e hipertextuales propias del Internet, es que propongo esta edición/re-interpretación. Como un ejercicio también hermenéutico, buscando, a través de su lectura _"...resucitar ideas, sepultadas en el papel"_ (RODRÍGUEZ, 1990:p.273).
 
 [Volver](#sumario)
 
@@ -107,7 +107,7 @@ Incluso sugiere que el mismo es un _"un libro parcialmente inédito, quizá inco
 
 Aunque mayormente conocido como el maestro del prócer independentista y **Libertador Simón Bolívar**, **Rodríguez** resulta ser un personaje de gran importancia para todo el continente americano, para la historia de una filosofía genuinamente propia en/de y desde _Nuestra América_ _(Abya Yala, América Látina, cómo lo quieran llamar)_, y para nuestra historia como región del mundo. Sin exagerar, el pensamiento rodrigueano o robinsoniano fue una propuesta sistemática de avanzada para su época. De ahí quizás su subestimación por parte de las élites de aquel momento. 
 
-Su propuesta podría sintetizarse en un **Republicanismo radical, antirracista e intercultural** _(al menos de manera incipiente)_, abogando por la constitución de _"Sociedades Americanas"_ originales, no meras réplicas de otras sociedades _(la europea o la estadounidense, específicamente)_ cuyos cimientos serían la **educación popular** _(sin distinción de razas o clases)_, a través de una pedagogía materialista _("tratar con las cosas, es la primera parte de la educación...")_ e integral, en que el saber intelectual se conjugaría con el saber manual. De allí su propuesta de que cada **Escuela Social** debía enseñar además de la lengua castellana; la quechua, y además de las ciencias matemáticas; la albañilería, carpintería y herrería _"porque con tierras, maderas y metales se hacen las cosas mas necesarias, y porque las operaciones de las artes mecánicas secundarias, dependen del conocimiento de las primeras"(RODRÍGUEZ, 2004:p.55)_ 
+Su propuesta podría sintetizarse en un **Republicanismo radical, antirracista e intercultural** _(al menos de manera incipiente)_, abogando por la constitución de _"Sociedades Americanas"_ originales, no meras réplicas de otras sociedades _(la europea o la estadounidense, específicamente)_ cuyos cimientos serían la **educación popular** _(sin distinción de razas o clases)_, a través de una pedagogía materialista _("tratar con las cosas, es la primera parte de la educación..." (RODRÍGUEZ,1990:p.99))_ e integral, en que el saber intelectual se conjugaría con el saber manual. De allí su propuesta de que cada **Escuela Social** debía enseñar además de la lengua castellana; la quechua, y además de las ciencias matemáticas; la albañilería, carpintería y herrería _"porque con tierras, maderas y metales se hacen las cosas mas necesarias, y porque las operaciones de las artes mecánicas secundarias, dependen del conocimiento de las primeras"(RODRÍGUEZ,2004:p.55)_ 
 
 En sentido estricto, su propuesta pedagógica es todo lo contrario al paradigma dominante en los sistemas educativos del continente, basados en la memorización de datos y la evaluación serial de habilidades. A su vez, inaugura toda una tradición investigativa en relación a modelos educativos libertarios y populares en nuestro continente que buscan precisamente superar ese modelo hegemónico antes descrito.
 
@@ -144,6 +144,5 @@ Estas dos referencias desde el arte contemporáneo hacia la obra de **Rodríguez
 
 Quedan saldadas pues, mis deudas con respecto al orígen y las ideas germinales que me llevan a realizar un proyecto de estas características. 
 
-Salud.
 
 [Volver](#sumario)
