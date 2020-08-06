@@ -161,7 +161,7 @@ Quedan saldadas pues, mis deudas con respecto a las ideas germinales que me llev
 No era mi intención inicial concluir este dossier mas o menos caótico con un apartado dedicado a referencias bibliográficas y no bibliográficas. Pero mis vicios (¿o aspiraciones?) de académico y mi intento por parecer riguroso me llevaron a citar algunos textos en los apartados anteriores. Dejo aquí las referencias.
 
 - MOLONEY, Kevin (2014) _Multimedia, Crossmedia, Transmedia… What’s in a name?._ Transmedia Journalism. Recuperado de: https://transmediajournalism.org/2014/04/21/multimedia-crossmedia-transmedia-whats-in-a-name/
-- MONDRAGÓN, Rafael (2016) _Hacia una edición crítica de Sociedades americanas en 1828 de Simón Rodríguez: claves para la reconstrucción de un proyecto editorial._ Revista Utopia y Praxis de la Universidad del Zulia. Disponible en: https://www.redalyc.org/jatsRepo/279/27950107009/html/index.html
+- MONDRAGÓN, Rafael (2016) _Hacia una edición crítica de Sociedades americanas en 1828 de Simón Rodríguez: claves para la reconstrucción de un proyecto editorial._ Revista Utopia y Praxis de la Universidad del Zulia. Recuperado de: https://www.redalyc.org/jatsRepo/279/27950107009/html/index.html
 - RODRÍGUEZ, Simón (2010) _Inventamos o erramos._ Caracas - El Perro y la Rana.
 - RODRÍGUEZ, Simón (1990) _Sociedades Americanas._ Caracas - Biblioteca Ayacucho.
 
