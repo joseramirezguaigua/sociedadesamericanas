@@ -142,7 +142,7 @@ De lo anteriormente expuesto extraigo un par de ideas importantes, disculpándom
 
 Estas dos referencias desde el arte contemporáneo hacia la obra de **Rodríguez** llamaron mi atención desde entonces, y a partír de allí procuré conocer su obra escrita, encontrando una propuesta filosófica y política con poderosas resonancias para la actualidad. 
 
-Quedan saldadas pues, mis deudas con respecto al orígen y las ideas germinales que me llevan a realizar un proyecto de estas características. 
+Quedan saldadas pues, mis deudas con respecto a las ideas germinales que me llevan a realizar un proyecto de estas características. 
 
 
 [Volver](#sumario)
