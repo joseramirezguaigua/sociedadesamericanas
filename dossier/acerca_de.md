@@ -2,8 +2,8 @@
 <center><img src="/dossier/SA_logo_completo_.png" ></center>
 
 ## Acerca de este proyecto
-por José Ramírez Guaigua
-jose.ramirez.guaigua@gmail.com
+por José Ramírez Guaigua<br>
+jose.ramirez.guaigua@gmail.com<br>
 
    En esta sección encontrarán breves reflexiones y _consideraciones teóricas y prácticas_ en torno al presente proyecto.  
   
